@@ -48,3 +48,18 @@ git clone https://github.com/your-username/wave-os.git
 cd wave-os
 npm install
 npm run dev
+
+---
+
+## 👨‍💻 AUTHOR & SIGNATURE
+
+**Chandan Jha**  
+Full Stack Developer & Earth OS Architect  
+📍 Jamalpur, Bihar, India  
+📧 chandan.jha2016@email.com  
+🔗 [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/chandankumar) | [Master Dashboard](https://master-dashboard-os.vercel.app)
+
+> *"Building 31 OS to save lives and monitor our Earth. One line of code at a time."*  
+> **- Chandan Jha, 2026**
+
+**© 2026 Chandan Jha. All Rights Reserved.**
