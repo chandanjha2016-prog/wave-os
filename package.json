@@ -1,1 +1,41 @@
 
+{
+  "name": "wave-os",
+  "version": "1.0.0",
+  "description": "Ocean Wave Height & Surf Monitoring System - Part of EARTH OS SUITE by Chandan Jha",
+  "private": true,
+  "author": "Chandan Jha <chandan.jha@email.com>",
+  "license": "MIT",
+  "homepage": "https://wave-os.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/wave-os"
+  },
+  "keywords": [
+    "wave",
+    "ocean",
+    "disaster",
+    "monitoring",
+    "nextjs",
+    "earth-os",
+    "chandan-jha"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
